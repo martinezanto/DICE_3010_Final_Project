@@ -1,0 +1,4 @@
+pip install urllib
+pip install simplejson
+pip install twitter
+pip install tweepy
