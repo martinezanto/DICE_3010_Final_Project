@@ -1,5 +1,5 @@
 
-#This bot searches for people that use the term "#teamapple", likes their post, follows person, and sends them a tweet saying "Apple Rules!" with a link to the Apple products on Amazon.
+#This bot searches for people that use the term "#teamapple", likes their post, follows person, and sends them a tweet saying "Check out these apples!" with a link to a Google Images Search of Apples as well as a link to Apple Store website.
  
 #Imports pip files
 import urllib
