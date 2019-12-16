@@ -8,10 +8,10 @@ import twitter
 import tweepy
 
 #Assign key and secret values for Twitter Developer Account
-consumer_key = 'wJpwLUODs2Js95GJJxP42q3Dl'
-consumer_secret = 'eEBrQclSxqmx68N1sO3AaXntfogVIgKey5m9G9KxPvnCTYPC46'
-access_token_key = '1204933477214220289-S18ZiHLnRlq4Pj3YO6PwrOqZWNs96m'
-access_token_secret = 'hst2UOqdbV7hQdOr3p6VfToVCBET7di8Y2SLazOntMYnA'
+consumer_key = 
+consumer_
+access_token_key = 
+access_token_
 
 #This is a function that searches generally on Twitter 
 def searchTweets(query):
